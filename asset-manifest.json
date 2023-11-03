@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/MY-APP/static/css/main.5de7952e.css",
+    "main.js": "/MY-APP/static/js/main.ea971871.js",
+    "static/js/496.13a8aa01.chunk.js": "/MY-APP/static/js/496.13a8aa01.chunk.js",
+    "static/media/37901.jpg": "/MY-APP/static/media/37901.45a349470203793b2119.jpg",
+    "static/media/markhor-logo-vector.svg": "/MY-APP/static/media/markhor-logo-vector.a766708d3f9633df775484c1d6c4fa0a.svg",
+    "index.html": "/MY-APP/index.html",
+    "static/media/menu.svg": "/MY-APP/static/media/menu.526d6f75501a4b4434831501e1224b09.svg",
+    "static/media/iconmonstr-weather-111.svg": "/MY-APP/static/media/iconmonstr-weather-111.2b370fad0981d4fdce6090d26e5be47c.svg",
+    "main.5de7952e.css.map": "/MY-APP/static/css/main.5de7952e.css.map",
+    "main.ea971871.js.map": "/MY-APP/static/js/main.ea971871.js.map",
+    "496.13a8aa01.chunk.js.map": "/MY-APP/static/js/496.13a8aa01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5de7952e.css",
+    "static/js/main.ea971871.js"
+  ]
+}
